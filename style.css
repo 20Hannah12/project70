@@ -1,0 +1,21 @@
+.campus_div{
+    border: 5px solid lightslategray;
+}
+.campus_div img{
+    width: 100%;
+}
+.campus_div h4 , .campus_div p{
+    margin: 20px;
+}
+.schoolachieve{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.schoolachieve i{
+    float: right;
+}
+.achievement_text span{
+    color: rgb(255, 183, 0);
+}
